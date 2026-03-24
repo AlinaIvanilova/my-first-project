@@ -1,6 +1,11 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2026 Alina
+=======
+Copyright (c) 2025 [ваше ім’я]
+
+>>>>>>> 87b893dc0eb9e66906d4a6c1657c8ea09ff97398
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
